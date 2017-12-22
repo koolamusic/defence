@@ -1,7 +1,7 @@
 # CONFIGURATION FILES
-/config/config.php
-/dbv/config.php
-
+# /config/config.php
+# /dbv/config.php
+/dbv/config.php~
 
 # Windows image file caches
 Thumbs.db
