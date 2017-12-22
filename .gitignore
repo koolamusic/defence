@@ -2,6 +2,7 @@
 # /config/config.php
 # /dbv/config.php
 /dbv/config.php~
+# /config/pepper.php
 
 # Windows image file caches
 Thumbs.db
@@ -49,12 +50,9 @@ Temporary Items
 
 # Individual files
 throw.php
-config/config.php
 *.odt#
 uploads/securities/L-5-1_Security-01.JPG
-config/pepper.php
 database/makeFresh.sql
-config/config.php
 
 # Idea Directories
 .idea
