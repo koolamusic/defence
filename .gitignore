@@ -1,3 +1,8 @@
+# CONFIGURATION FILES
+/config/config.php
+/dbv/config.php
+
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
